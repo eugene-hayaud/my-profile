@@ -1,0 +1,76 @@
+h1 {
+  font-weight: 500;
+	color: darkslateblue;
+	line-height: 0,5;
+}
+
+
+h2 {
+	font-size: 20px;
+	font-family: Arial;
+	font-weight: bold;
+	line-height: 3;
+	font-weight: bold;
+} 
+
+body {
+  font-family: Arial;, sans-serif;
+	letter-spacing: 2px;
+	text-align: center;
+	background-color: whitesmoke;
+	color: dark;
+	font-weight: lighter;
+	width: 700px;
+	margin: 40px;
+}
+
+
+.container {
+	width: 700px;
+	margin: 300px;
+}
+
+.photovc {
+	width: 250px;
+	border-radius: 50%;
+}
+
+.titre {
+	font-family: monospace;
+	font-size: 30px;
+}
+
+.div1 {
+	background-color: lightgrey;
+	font-family: Arial;
+	color: darkslateblue;
+	padding: 40px;
+	box-shadow: 10px 10px 5px darkslateblue;
+	border-radius: 15px;
+	margin: 20px 0px;
+}
+
+
+.div2 {
+	background-color: lightgrey;
+	color: dimgrey;
+	padding: 40px;
+	box-shadow: 10px 10px 5px dimgray;
+	border-radius: 15px;
+	margin: 20px 0px;
+}
+
+.div21 {
+	background-color: lightgrey;
+	color: dimgrey;
+	padding: 40px;
+	box-shadow: 10px 10px 5px dimgrey;
+	border-radius: 15px;
+	margin: 20px 0px;
+}
+
+.magasin {
+	font-size: 12px;
+	letter-spacing: 0.5px;
+	line-height: 0px;
+}
